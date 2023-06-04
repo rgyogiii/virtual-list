@@ -12,7 +12,6 @@ export default function Navbar() {
     { id: 3, name: "Product", link: "/product" },
   ];
 
-  const activePath = window.location.href.split("/")[3];
   const mobileMenuRef = useRef(null);
   const [activeIndex, setActiveIndex] = useState(0);
   const [isOpen, setIsOpen] = useState(false);
