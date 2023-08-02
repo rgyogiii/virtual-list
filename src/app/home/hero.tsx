@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="text-center pt-20 laptop:pt-32">
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-tight sm_tablet:text-7xl">
-        Discover NexGenMarket <br /> Where Shopping Meets the Future!
+        Newly Discover NexGenMarket <br /> Where Shopping Meets the Future!
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-tertiary">
         Embark on a Futuristic Shopping Journey with NexGenMarket, Where
